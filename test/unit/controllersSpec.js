@@ -1,22 +1,33 @@
-'use strict';
+'use strict'; 
+describe('TeamControllers', function() {
 
-describe('Controller: MainCtrl', function () {
+  beforeEach(function(){
+    this.addMatchers({
+      toEqualData: function(expected){
+        return angular.equals(this.actual, expected);
+      }
+    })
+  })
 
-  // load the controller's module
   beforeEach(module('fsProjectApp'));
 
-  var MainCtrl,
-    scope;
+  describe('teamCtrl', function(){
+    var scope, ctrl, $httpBackend;
 
-  // Initialize the controller and a mock scope
-  beforeEach(inject(function ($controller, $rootScope) {
-    scope = $rootScope.$new();
-    MainCtrl = $controller('MainCtrl', {
-      $scope: scope
+    beforeEach(inject(function(_$httpBackend, $rootScope, $controller){
+      $httpBackend = _$httpBackend_;
+      $httpBackend.expectGET('https://api.thescore.com/nhl/teams').respond({full_name: 'Boston Bruins'});
+
+      scope = $rootScope.$new();
+      ctrl = $controller('teamCtrl', {$scope: scope});
+    }));
+
+    it('should fetch team data', function() {
+      expect(scope).toEqual({});
+      $httpBackend.flush();
+
+      expect(scope).toEqual('Boston Bruins');
     });
-  }));
 
-  it('should attach a list of awesomeThings to the scope', function () {
-    expect(scope.awesomeThings.length).toBe(3);
   });
 });

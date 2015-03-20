@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js">
+<html class="no-js" ng-app="fsProjectApp">
   <head>
     <meta charset="utf-8">
     <title></title>
@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="styles/main.css">
     <!-- endbuild -->
   </head>
-  <body ng-app="fsProjectApp">
+  <body ng-controller="teamCtrl">
     <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
@@ -39,9 +39,10 @@
           <div class="collapse navbar-collapse" id="js-navbar-collapse">
 
             <ul class="nav navbar-nav">
-              <li class="active"><a href="#/">Home</a></li>
-              <li><a ng-href="#/about">About</a></li>
-              <li><a ng-href="#/">Contact</a></li>
+              <li class="active">Select a Team</li>
+              <li ng-repeat="team in teams | orderBy:'full_name'">
+                <a ng-href="#/team/{{team.abbreviation}}"><img ng-src="{{team.logos.tiny}}">{{team.full_name}}</a>
+              </li>
             </ul>
           </div>
         </div>
@@ -49,14 +50,7 @@
     </div>
 
     <div class="container">
-    <div ng-controller="MainCtrl">
-      <ul>
-        <li ng-repeat="team in teams | orderBy:'full_name'">
-          <span>{{team.full_name}}</span>
-          <img src="{{team.logos.large}}">
-        </li>
-      </ul>
-    </div>     </div>
+    </div>
 
     <div class="footer">
       <div class="container">

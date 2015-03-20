@@ -9,6 +9,6 @@
  */
 var TeamControllers = angular.module('TeamControllers', []);
 
-  TeamControllers.controller('MainCtrl', ['$scope', 'Teams', function ($scope, Teams) {
+  TeamControllers.controller('teamCtrl', ['$scope', 'Teams', function ($scope, Teams) {
   		$scope.teams = Teams.query();
   }]);
