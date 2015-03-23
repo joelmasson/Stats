@@ -10,23 +10,24 @@ describe('TeamControllers', function() {
   })
 
   beforeEach(module('fsProjectApp'));
+  beforeEach(module('teamServices'));
 
   describe('teamCtrl', function(){
     var scope, ctrl, $httpBackend;
 
-    beforeEach(inject(function(_$httpBackend, $rootScope, $controller){
+    beforeEach(inject(function(_$httpBackend_, $rootScope, $controller){
       $httpBackend = _$httpBackend_;
-      $httpBackend.expectGET('https://api.thescore.com/nhl/teams').respond({full_name: 'Boston Bruins'});
+      $httpBackend.expectGET('https://api.thescore.com/nhl/teams.json').respond([{abbreviation:"BOS"}]);
 
       scope = $rootScope.$new();
       ctrl = $controller('teamCtrl', {$scope: scope});
     }));
 
     it('should fetch team data', function() {
-      expect(scope).toEqual({});
+      expect(scope['teams']).toEqualData([]);
       $httpBackend.flush();
 
-      expect(scope).toEqual('Boston Bruins');
+      expect(scope['teams']).toEqualData([{abbreviation:"BOS"}]);
     });
 
   });

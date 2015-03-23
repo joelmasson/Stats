@@ -1,0 +1,2210 @@
+[
+   {
+      "abbreviation":"BOS",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Atlantic Division",
+      "full_name":"Boston Bruins",
+      "id":1,
+      "location":"Boston",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Boston",
+      "short_name":"BOS",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/1",
+      "resource_uri":"/hockey/teams/1",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/1.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"BUF",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Atlantic Division",
+      "full_name":"Buffalo Sabres",
+      "id":2,
+      "location":"Buffalo",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/2/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/2/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/2/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/2/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Buffalo",
+      "short_name":"BUF",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/2/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/2/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/2/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/2/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/2",
+      "resource_uri":"/hockey/teams/2",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/2.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"MTL",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Atlantic Division",
+      "full_name":"Montreal Canadiens",
+      "id":3,
+      "location":"Montreal",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/3/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/3/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/3/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/3/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Montreal",
+      "short_name":"MTL",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/3/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/3/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/3/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/3/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/3",
+      "resource_uri":"/hockey/teams/3",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/3.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"OTT",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Atlantic Division",
+      "full_name":"Ottawa Senators",
+      "id":4,
+      "location":"Ottawa",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/4/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/4/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/4/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/4/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Ottawa",
+      "short_name":"OTT",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/4/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/4/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/4/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/4/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/4",
+      "resource_uri":"/hockey/teams/4",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/4.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"TOR",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Atlantic Division",
+      "full_name":"Toronto Maple Leafs",
+      "id":5,
+      "location":"Toronto",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/5/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/5/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/5/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/5/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Toronto",
+      "short_name":"TOR",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/5/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/5/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/5/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/5/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/5",
+      "resource_uri":"/hockey/teams/5",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/5.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"NJD",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Metropolitan Division",
+      "full_name":"New Jersey Devils",
+      "id":6,
+      "location":"New Jersey",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/6/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/6/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/6/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/6/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"New Jersey",
+      "short_name":"NJD",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/6/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/6/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/6/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/6/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/6",
+      "resource_uri":"/hockey/teams/6",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/6.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"NYI",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Metropolitan Division",
+      "full_name":"New York Islanders",
+      "id":7,
+      "location":"New York",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/7/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/7/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/7/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/7/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"NY Islanders",
+      "short_name":"NYI",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/7/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/7/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/7/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/7/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/7",
+      "resource_uri":"/hockey/teams/7",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/7.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"NYR",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Metropolitan Division",
+      "full_name":"New York Rangers",
+      "id":8,
+      "location":"New York",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/8/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/8/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/8/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/8/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"NY Rangers",
+      "short_name":"NYR",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/8/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/8/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/8/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/8/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/8",
+      "resource_uri":"/hockey/teams/8",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/8.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"PHI",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Metropolitan Division",
+      "full_name":"Philadelphia Flyers",
+      "id":9,
+      "location":"Philadelphia",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/9/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/9/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/9/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/9/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Philadelphia",
+      "short_name":"PHI",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/9/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/9/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/9/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/9/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/9",
+      "resource_uri":"/hockey/teams/9",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/9.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"PIT",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Metropolitan Division",
+      "full_name":"Pittsburgh Penguins",
+      "id":10,
+      "location":"Pittsburgh",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/10/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/10/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/10/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/10/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Pittsburgh",
+      "short_name":"PIT",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/10/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/10/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/10/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/10/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/10",
+      "resource_uri":"/hockey/teams/10",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/10.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"WPG",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Central Division",
+      "full_name":"Winnipeg Jets",
+      "id":11,
+      "location":"Winnipeg",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/11/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/11/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/11/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/11/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Winnipeg",
+      "short_name":"WPG",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/11/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/11/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/11/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/11/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Western Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/11",
+      "resource_uri":"/hockey/teams/11",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/11.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"CAR",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Metropolitan Division",
+      "full_name":"Carolina Hurricanes",
+      "id":12,
+      "location":"Carolina",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/12/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/12/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/12/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/12/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Carolina",
+      "short_name":"CAR",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/12/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/12/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/12/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/12/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/12",
+      "resource_uri":"/hockey/teams/12",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/12.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"FLA",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Atlantic Division",
+      "full_name":"Florida Panthers",
+      "id":13,
+      "location":"Florida",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/13/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/13/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/13/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/13/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Florida",
+      "short_name":"FLA",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/13/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/13/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/13/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/13/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":false,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/13",
+      "resource_uri":"/hockey/teams/13",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/13.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"TBL",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Atlantic Division",
+      "full_name":"Tampa Bay Lightning",
+      "id":14,
+      "location":"Tampa Bay",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/14/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/14/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/14/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/14/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Tampa Bay",
+      "short_name":"TBL",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/14/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/14/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/14/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/14/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/14",
+      "resource_uri":"/hockey/teams/14",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/14.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"WSH",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Metropolitan Division",
+      "full_name":"Washington Capitals",
+      "id":15,
+      "location":"Washington",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/15/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/15/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/15/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/15/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Washington",
+      "short_name":"WSH",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/15/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/15/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/15/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/15/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/15",
+      "resource_uri":"/hockey/teams/15",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/15.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"CHI",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Central Division",
+      "full_name":"Chicago Blackhawks",
+      "id":16,
+      "location":"Chicago",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/16/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/16/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/16/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/16/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Chicago",
+      "short_name":"CHI",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/16/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/16/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/16/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/16/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Western Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/16",
+      "resource_uri":"/hockey/teams/16",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/16.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"CBJ",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Metropolitan Division",
+      "full_name":"Columbus Blue Jackets",
+      "id":17,
+      "location":"Columbus",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/17/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/17/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/17/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/17/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Columbus",
+      "short_name":"CBJ",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/17/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/17/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/17/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/17/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/17",
+      "resource_uri":"/hockey/teams/17",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/17.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"DET",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Atlantic Division",
+      "full_name":"Detroit Red Wings",
+      "id":18,
+      "location":"Detroit",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/18/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/18/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/18/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/18/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Detroit",
+      "short_name":"DET",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/18/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/18/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/18/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/18/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Eastern Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/18",
+      "resource_uri":"/hockey/teams/18",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/18.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"NSH",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Central Division",
+      "full_name":"Nashville Predators",
+      "id":19,
+      "location":"Nashville",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/19/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/19/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/19/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/19/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Nashville",
+      "short_name":"NSH",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/19/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/19/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/19/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/19/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Western Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/19",
+      "resource_uri":"/hockey/teams/19",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/19.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"STL",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Central Division",
+      "full_name":"St. Louis Blues",
+      "id":20,
+      "location":"St. Louis",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/20/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/20/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/20/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/20/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"St. Louis",
+      "short_name":"STL",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/20/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/20/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/20/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/20/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Western Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/20",
+      "resource_uri":"/hockey/teams/20",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/20.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"ANA",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Pacific Division",
+      "full_name":"Anaheim Ducks",
+      "id":21,
+      "location":"Anaheim",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/21/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/21/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/21/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/21/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Anaheim",
+      "short_name":"ANA",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/21/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/21/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/21/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/21/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Western Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/21",
+      "resource_uri":"/hockey/teams/21",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/21.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"DAL",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Central Division",
+      "full_name":"Dallas Stars",
+      "id":22,
+      "location":"Dallas",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/22/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/22/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/22/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/22/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Dallas",
+      "short_name":"DAL",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/22/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/22/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/22/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/22/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Western Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/22",
+      "resource_uri":"/hockey/teams/22",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/22.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"LAK",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Pacific Division",
+      "full_name":"Los Angeles Kings",
+      "id":23,
+      "location":"Los Angeles",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/23/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/23/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/23/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/23/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Los Angeles",
+      "short_name":"LAK",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/23/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/23/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/23/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/23/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Western Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/23",
+      "resource_uri":"/hockey/teams/23",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/23.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"ARI",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Pacific Division",
+      "full_name":"Arizona Coyotes",
+      "id":24,
+      "location":"Arizona",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/24/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/24/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/24/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/24/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Arizona",
+      "short_name":"ARI",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/24/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/24/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/24/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/24/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Western Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/24",
+      "resource_uri":"/hockey/teams/24",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/24.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"SJS",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Pacific Division",
+      "full_name":"San Jose Sharks",
+      "id":25,
+      "location":"San Jose",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/25/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/25/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/25/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/25/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"San Jose",
+      "short_name":"SJS",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/25/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/25/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/25/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/25/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Western Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:53 -0000",
+      "api_uri":"/nhl/teams/25",
+      "resource_uri":"/hockey/teams/25",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/25.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"CGY",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Pacific Division",
+      "full_name":"Calgary Flames",
+      "id":26,
+      "location":"Calgary",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/26/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/26/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/26/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/26/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Calgary",
+      "short_name":"CGY",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/26/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/26/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/26/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/26/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Western Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:53 -0000",
+      "api_uri":"/nhl/teams/26",
+      "resource_uri":"/hockey/teams/26",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/26.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"COL",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Central Division",
+      "full_name":"Colorado Avalanche",
+      "id":27,
+      "location":"Colorado",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/27/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/27/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/27/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/27/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Colorado",
+      "short_name":"COL",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/27/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/27/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/27/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/27/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Western Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:53 -0000",
+      "api_uri":"/nhl/teams/27",
+      "resource_uri":"/hockey/teams/27",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/27.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"EDM",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Pacific Division",
+      "full_name":"Edmonton Oilers",
+      "id":28,
+      "location":"Edmonton",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/28/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/28/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/28/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/28/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Edmonton",
+      "short_name":"EDM",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/28/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/28/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/28/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/28/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Western Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:53 -0000",
+      "api_uri":"/nhl/teams/28",
+      "resource_uri":"/hockey/teams/28",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/28.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"MIN",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Central Division",
+      "full_name":"Minnesota Wild",
+      "id":29,
+      "location":"Minnesota",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/29/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/29/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/29/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/29/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Minnesota",
+      "short_name":"MIN",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/29/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/29/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/29/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/29/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Western Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:53 -0000",
+      "api_uri":"/nhl/teams/29",
+      "resource_uri":"/hockey/teams/29",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/29.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"VAN",
+      "colour_1":null,
+      "colour_2":null,
+      "division":"Pacific Division",
+      "full_name":"Vancouver Canucks",
+      "id":30,
+      "location":"Vancouver",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/30/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/30/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/30/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/30/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Vancouver",
+      "short_name":"VAN",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/30/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/30/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/30/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/30/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":"Western Conference",
+      "has_injuries":true,
+      "has_rosters":true,
+      "updated_at":"Mon, 23 Mar 2015 05:09:53 -0000",
+      "api_uri":"/nhl/teams/30",
+      "resource_uri":"/hockey/teams/30",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/30.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"TTS",
+      "colour_1":null,
+      "colour_2":null,
+      "division":null,
+      "full_name":"Team Toews ",
+      "id":31,
+      "location":"Team Toews",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/31/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/31/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/31/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/31/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Team Toews",
+      "short_name":"TTS",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/31/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/31/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/31/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/31/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":null,
+      "has_injuries":false,
+      "has_rosters":false,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/31",
+      "resource_uri":"/hockey/teams/31",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/31.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   },
+   {
+      "abbreviation":"TFS",
+      "colour_1":null,
+      "colour_2":null,
+      "division":null,
+      "full_name":"Team Foligno ",
+      "id":32,
+      "location":"Team Foligno",
+      "logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/32/logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/32/small_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/32/w72xh72_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/32/tiny_logo.png",
+         "facing":null
+      },
+      "medium_name":"Team Foligno",
+      "short_name":"TFS",
+      "sportsnet_logos":{
+         "large":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/32/sportsnet_logo.png",
+         "small":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/32/small_sportsnet_logo.png",
+         "w72xh72":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/32/w72xh72_sportsnet_logo.png",
+         "tiny":"http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/32/tiny_sportsnet_logo.png",
+         "facing":null
+      },
+      "conference":null,
+      "has_injuries":false,
+      "has_rosters":false,
+      "updated_at":"Mon, 23 Mar 2015 05:09:52 -0000",
+      "api_uri":"/nhl/teams/32",
+      "resource_uri":"/hockey/teams/32",
+      "rss_url":"http://feeds.thescore.com/nhl/teams/32.rss",
+      "subscribable_alerts":[
+         {
+            "key":"game_start",
+            "display":"Game Start",
+            "default":true
+         },
+         {
+            "key":"game_end",
+            "display":"Game End",
+            "default":true
+         },
+         {
+            "key":"tight_game",
+            "display":"Close Game",
+            "default":false
+         },
+         {
+            "key":"segment_end",
+            "display":"Period End",
+            "default":true
+         },
+         {
+            "key":"score_change",
+            "display":"Every Goal",
+            "default":true
+         },
+         {
+            "key":"red_zone",
+            "display":"Power Plays",
+            "default":false
+         },
+         {
+            "key":"breaking_news",
+            "display":"Breaking News",
+            "default":true
+         }
+      ]
+   }
+]

@@ -7,11 +7,11 @@
  * # MainCtrl
  * Controller of the fsProjectApp
  */
-var mainService = angular.module('mainService', ['ngResource']);
+var mainService = angular.module('teamServices', ['ngResource']);
 
 mainService.factory('Teams', ['$resource',
   function($resource){
-    return $resource('https://api.thescore.com/nhl/teams', {}, {
+    return $resource('https://api.thescore.com/nhl/teams.json', {}, {
       query: {method:'GET', isArray:true}
     });
   }]);

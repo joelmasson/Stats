@@ -11,12 +11,9 @@
 angular
   .module('fsProjectApp', [
     'ngAnimate',
-    'ngCookies',
     'ngResource',
     'ngRoute',
-    'ngSanitize',
-    'ngTouch',
     'TeamControllers',
-    'mainService'
+    'teamServices'
   ])
 
